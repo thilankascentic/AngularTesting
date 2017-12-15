@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Jon arryn",
+    "phone": "(111) 567-8910",
+    "address": {
+      "street": "1234 first Street",
+      "state": "Eyrie",
+      "zip": "80111"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ned Stark",
+    "phone": "(222) 213-9876",
+    "address": {
+      "street": "5555 second Street",
+      "state": "Winterfel",
+      "zip": "80202"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Robert Baratheon",
+    "phone": "(333) 323-2333",
+    "address": {
+      "street": "666 3rd street",
+      "state": "Kingslanding",
+      "zip": "81657"
+    }
+  }
+]
